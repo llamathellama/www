@@ -9,7 +9,7 @@ var shouldLlamaBePraised = function() {
 		llamaPraising = 'oh hell no!'
 	} else if (randomInt % 3 == 0) {
 		llamaPraising = 'all praise the mighty llama!'
-	} else if (randomInt % 4 == 0) {
+	} else if (randomInt % 5 == 0) {
 		llamaPraising = 'PRAISE OR SUFFER THE WRATH OF LLAMA'
 	}
 	return llamaPraising;
