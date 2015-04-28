@@ -1,0 +1,16 @@
+body {
+	background-color: #663300;
+	text-align: center;
+	padding: 40px;
+}
+
+button {
+	/*height: 5em;
+	width: 20em;*/
+	font-size: 2em;
+}
+
+h1 {
+	font-family: helvetica, arial, sans-serif;
+	color: #9cf;
+}
