@@ -16,9 +16,9 @@ var shouldLlamaBePraised = function() {
 }
 
 var bestowWisdom = function(wisdom) {
-        if (wisdom % 2 == 0) {
-                    return 'all praise the mighty llama!';
-                        } else {
-                                    return "<div> <img src='llamas/Llama-Doll-icon_orig.png'></img> <span> says \"&#161S&#205! Pero solamente por los justos\"</span> </div>"
-                                            }
+	if (wisdom % 2 == 0) {
+		return 'all praise the mighty llama!';
+	} else {
+		return "<div> <img src='llamas/Llama-Doll-icon_orig.png'></img> <span> says \"&#161S&#205! Pero solamente por los justos\"</span> </div>"
+	}
 }
